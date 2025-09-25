@@ -20,6 +20,6 @@ Senge, P. M., et. al. _The Fifth Discipline Fieldbook: Strategies and Tools for 
 
 Senge, P. M., et al. _The Dance of Change: The Challenges of Sustaining Momentum in Learning Organizations_. New York: Doubleday/Currency. 1999.
 
-Society for Organizational Learning: {{% resource_link "ea56e868-5698-4696-a501-d08819cc7d07" "http://www.solonline.org/" %}}.
+Society for Organizational Learning: [http://www.solonline.org/](http://www.solonline.org/).
 
 Weick, K. E. _Sensemaking in Organizations._ Newbury Park, CA: Sage Publications. 1995.
