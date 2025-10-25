@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus provides information on course meeting times, grading,
   purpose, structure, learning groups, and assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
